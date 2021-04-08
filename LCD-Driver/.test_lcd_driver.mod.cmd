@@ -1,0 +1,1 @@
+cmd_/home/haruna/Desktop/Kawaii-stuff/Linux-driver-dev/LCD-Driver/test_lcd_driver.mod := { echo  /home/haruna/Desktop/Kawaii-stuff/Linux-driver-dev/LCD-Driver/test_lcd_driver.o; echo; } > /home/haruna/Desktop/Kawaii-stuff/Linux-driver-dev/LCD-Driver/test_lcd_driver.mod
